@@ -19,6 +19,8 @@ Libraries we plan on using:
 
 http://commonmusic.sourceforge.net/
 
+Overtone
+
 
 
 Please make sure to review the information at https://groups.google.com/d/msg/uml-opl-spr16/0bbtjSLWKvs/86A9IKxBHgAJ regarding how to develop a good project.
